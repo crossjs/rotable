@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<pics>
+	<!-- id为奖品id，与luck.xml里的id对应 -->
+	<pic id="1" src="1.png"/>
+	<pic id="2" src="2.png"/>
+	<pic id="3" src="3.png"/>
+	<pic id="4" src="4.png"/>
+	<pic id="5" src="5.png"/>
+	<pic id="6" src="6.png"/>
+	<pic id="7" src="7.png"/>
+	<pic id="8" src="8.png"/>
+</pics>

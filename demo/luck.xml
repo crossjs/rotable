@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- id为奖品id，与data.xml里的id对应；text最多允许35个汉字 -->
+<luck id="2" text="恭喜！您中了马尔代夫双人五日游。恭喜！您中了马尔代夫双人五日游。恭喜！" status="0" msg="对不起，您今日的抽奖机会已经用完，请您明天再来" code="abc" pwd="xyz" gifttype="1/2/3" leftcnt="1"/>
